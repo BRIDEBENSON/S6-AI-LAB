@@ -24,3 +24,6 @@ def main():
 
 if __name__ == "__main__":
   main()
+
+# save your api key in .env file to the variable GEMINI_API_KEY
+# also make sure you run pip install python-dotenv in terminal
